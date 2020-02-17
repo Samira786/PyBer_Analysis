@@ -1,16 +1,16 @@
 # PyBer Analysis
 
 ## Overview
-1.	Create a PyBer Summary DataFrame
+1.	Create a PyBer Summary DataFrame <br />
 An outcome between three city types was analyzed: Rural, Suburban, and Urban, comparing total rides, total drivers, total fares, average fare per ride and average fare per driver.
-2.	Create a Multiple-Line Plot for the Sum of the Fares for Each City Type
+2.	Create a Multiple-Line Plot for the Sum of the Fares for Each City Type <br />
 A line plot was created calculating the sum of the fares by city type per month.
 
 ## Resources
-•	Data Source: ride_data.csv, city_data.csv <br/ >
+•	Data Source: ride_data.csv, city_data.csv <br />
 •	Software: Python 3.7.4, Jupyter Notebook
 
-## Chart 1 Summary
+## PyBer Summary Data Frame
 
 ![Chart 1 Summary](https://github.com/Samira786/PyBer_Analysis/blob/master/analysis/Chart%201%20Summary.png)
 

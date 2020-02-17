@@ -20,4 +20,4 @@ Rural cities have lower rides, drivers and total fares compared to suburban and 
 
 ![Chart 2](https://github.com/Samira786/PyBer_Analysis/blob/master/analysis/Pyber_Challenge.png)
 
-This line plot confirmed the data results retrieved from the first chart and illustrates that total fares are lower in rural areas and highest in urban areas. Between January and May, total fares in rural cities stayed between 0 and 500 dollars, suburban cities were between 500 and 1500 dollars, and urban areas was between 1500 and 2500 dollars. 
+This line plot confirmed the data results retrieved from the first chart and illustrates that total fares are lower in rural areas and highest in urban areas. Between January and May, total fares in rural cities stayed between 0 and 500 dollars, suburban cities were between 500 and 1500 dollars, and urban areas was between 1500 and 2500 dollars. All three city types spiked in the end of February at the same time.
